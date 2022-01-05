@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+h1{
+    font-size: 50px;
+   
+ 
+} 
+.brawon{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 80%;
+}
+.target{
+    text-decoration: none;
+     background-image: linear-gradient(brown, gray);
+     font-weight: 700;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
