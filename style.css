@@ -3,14 +3,14 @@ body{
     margin: 0%;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
    
  
 } 
 .brawon{
     color: brown;
 }
-section{
+.flexible-conteinar{
     display: flex;
     margin-bottom: 100px;
 }
